@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-SchoolPool",
+      "appliesTo": "SchoolPool.http",
+      "type": "launch"
+    }
+  ]
+}

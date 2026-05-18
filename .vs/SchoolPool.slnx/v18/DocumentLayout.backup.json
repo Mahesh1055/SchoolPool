@@ -1,0 +1,940 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\controllers\\ridecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\controllers\\ridecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\models\\seatbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\models\\seatbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\controllers\\carpoolgroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\controllers\\carpoolgroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\controllers\\childcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\controllers\\childcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\models\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\models\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\models\\gpslocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\models\\gpslocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\hubs\\trackinghub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\hubs\\trackinghub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\controllers\\gpslocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\controllers\\gpslocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\models\\groupmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\models\\groupmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\models\\carpoolgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\models\\carpoolgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RUSHIKESH\\AppData\\Local\\Temp\\5x1assa1..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RUSHIKESH\\AppData\\Local\\Temp\\bqa2oaxh..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RUSHIKESH\\AppData\\Local\\Temp\\oywmckgk..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/SchoolPoolDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/SchoolPoolDB/True/SqlTable/dbo.Children.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/SchoolPoolDB/True/SqlTable/dbo.Parents.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/SchoolPoolDB/True/SqlTable/dbo.__EFMigrationsHistory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool-client\\src\\pages\\AdminDashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolPool-client\\src\\pages\\AdminDashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Groups.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Vehicles.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Children.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool-client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolPool-client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool-client\\src\\components\\Navbar.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolPool-client\\src\\components\\Navbar.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool-client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolPool-client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool-client\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolPool-client\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool\\Migrations\\20260326072123_AddAllModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool\\Migrations\\20260326071627_AddAllModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool\\Models\\EmergencyAlert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\controllers\\emergencyalertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\controllers\\emergencyalertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\controllers\\emergencyalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\controllers\\emergencyalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\migrations\\20260409063851_addgpstracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\migrations\\20260409063851_addgpstracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\schoolpool.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\schoolpool.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\migrations\\20260326072143_addallmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\migrations\\20260326072143_addallmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\migrations\\20260410041402_addgroupname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\migrations\\20260410041402_addgroupname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\migrations\\20260410035622_fixridemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\migrations\\20260410035622_fixridemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\migrations\\20260410034627_fixgroupmemberfk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\migrations\\20260410034627_fixgroupmemberfk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\migrations\\20260410061008_addgroupmemberchildcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\migrations\\20260410061008_addgroupmemberchildcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\migrations\\20260425134903_addverificationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\migrations\\20260425134903_addverificationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|c:\\users\\userm\\onedrive\\desktop\\project\\schoolpool\\schoolpool\\migrations\\20260426151645_addseatbookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701ACDD0-E1B5-C26C-3417-1AB68B562BC6}|SchoolPool\\SchoolPool.csproj|solutionrelative:schoolpool\\migrations\\20260426151645_addseatbookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarpoolGroupController.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\CarpoolGroupController.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Controllers\\CarpoolGroupController.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\CarpoolGroupController.cs",
+              "RelativeToolTip": "SchoolPool\\Controllers\\CarpoolGroupController.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAiwG4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T09:55:05.791Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20260426151645_AddSeatBookings.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Migrations\\20260426151645_AddSeatBookings.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Migrations\\20260426151645_AddSeatBookings.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Migrations\\20260426151645_AddSeatBookings.cs",
+              "RelativeToolTip": "SchoolPool\\Migrations\\20260426151645_AddSeatBookings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:16:45.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeatBooking.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\SeatBooking.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Models\\SeatBooking.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\SeatBooking.cs",
+              "RelativeToolTip": "SchoolPool\\Models\\SeatBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:14:54.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RideController.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\RideController.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Controllers\\RideController.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\RideController.cs",
+              "RelativeToolTip": "SchoolPool\\Controllers\\RideController.cs",
+              "ViewState": "AgIAAGUDAAAAAAAAAAAqwHEDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T09:55:39.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChildController.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\ChildController.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Controllers\\ChildController.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\ChildController.cs",
+              "RelativeToolTip": "SchoolPool\\Controllers\\ChildController.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAAgwEQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T09:52:02.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SchoolPool\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAmwBwBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T09:56:42.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\Vehicle.cs",
+              "RelativeToolTip": "SchoolPool\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T13:44:04.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "SchoolPool\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAgwBkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T09:53:51.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SchoolPool\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:18:25.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20260425134903_AddVerificationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Migrations\\20260425134903_AddVerificationStatus.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Migrations\\20260425134903_AddVerificationStatus.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Migrations\\20260425134903_AddVerificationStatus.cs",
+              "RelativeToolTip": "SchoolPool\\Migrations\\20260425134903_AddVerificationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T13:49:04.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\Child.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Models\\Child.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\Child.cs",
+              "RelativeToolTip": "SchoolPool\\Models\\Child.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T04:21:21.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\Ride.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Models\\Ride.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\Ride.cs",
+              "RelativeToolTip": "SchoolPool\\Models\\Ride.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T03:51:18.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "SchoolPool\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAYwMQAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T09:56:11.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SchoolPool\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAwwIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T18:51:08.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "SchoolPool\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAUwIMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:14:28.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Program.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Program.cs",
+              "RelativeToolTip": "SchoolPool\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAQwIMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T18:17:39.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\Notification.cs",
+              "RelativeToolTip": "SchoolPool\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:21:33.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GPSLocationController.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\GPSLocationController.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Controllers\\GPSLocationController.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\GPSLocationController.cs",
+              "RelativeToolTip": "SchoolPool\\Controllers\\GPSLocationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T05:54:55.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrackingHub.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Hubs\\TrackingHub.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Hubs\\TrackingHub.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Hubs\\TrackingHub.cs",
+              "RelativeToolTip": "SchoolPool\\Hubs\\TrackingHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T05:54:17.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GPSLocation.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\GPSLocation.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Models\\GPSLocation.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\GPSLocation.cs",
+              "RelativeToolTip": "SchoolPool\\Models\\GPSLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:15:26.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\Payment.cs",
+              "RelativeToolTip": "SchoolPool\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:27:12.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\Admin.cs",
+              "RelativeToolTip": "SchoolPool\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T18:53:53.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolPool\\appsettings.json",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\appsettings.json",
+              "RelativeToolTip": "SchoolPool\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T07:44:14.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20260410041402_AddGroupName.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Migrations\\20260410041402_AddGroupName.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Migrations\\20260410041402_AddGroupName.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Migrations\\20260410041402_AddGroupName.cs",
+              "RelativeToolTip": "SchoolPool\\Migrations\\20260410041402_AddGroupName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T04:14:04.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GroupMember.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\GroupMember.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Models\\GroupMember.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\GroupMember.cs",
+              "RelativeToolTip": "SchoolPool\\Models\\GroupMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T03:39:36.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20260410061008_AddGroupMemberChildCount.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Migrations\\20260410061008_AddGroupMemberChildCount.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Migrations\\20260410061008_AddGroupMemberChildCount.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Migrations\\20260410061008_AddGroupMemberChildCount.cs",
+              "RelativeToolTip": "SchoolPool\\Migrations\\20260410061008_AddGroupMemberChildCount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:10:10.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\Attendance.cs",
+              "RelativeToolTip": "SchoolPool\\Models\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T07:36:00.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20260410035622_FixRideModel.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Migrations\\20260410035622_FixRideModel.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Migrations\\20260410035622_FixRideModel.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Migrations\\20260410035622_FixRideModel.cs",
+              "RelativeToolTip": "SchoolPool\\Migrations\\20260410035622_FixRideModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T03:56:23.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\Parent.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Models\\Parent.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\Parent.cs",
+              "RelativeToolTip": "SchoolPool\\Models\\Parent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T04:20:54.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20260410034627_FixGroupMemberFK.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Migrations\\20260410034627_FixGroupMemberFK.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Migrations\\20260410034627_FixGroupMemberFK.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Migrations\\20260410034627_FixGroupMemberFK.cs",
+              "RelativeToolTip": "SchoolPool\\Migrations\\20260410034627_FixGroupMemberFK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T03:46:29.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CarpoolGroup.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\CarpoolGroup.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Models\\CarpoolGroup.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Models\\CarpoolGroup.cs",
+              "RelativeToolTip": "SchoolPool\\Models\\CarpoolGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:11:21.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EmergencyAlertController.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\EmergencyAlertController.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Controllers\\EmergencyAlertController.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\EmergencyAlertController.cs",
+              "RelativeToolTip": "SchoolPool\\Controllers\\EmergencyAlertController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAkwIgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:10:43.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EmergencyAlert.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\EmergencyAlert.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Controllers\\EmergencyAlert.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Controllers\\EmergencyAlert.cs",
+              "RelativeToolTip": "SchoolPool\\Controllers\\EmergencyAlert.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T18:52:55.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20260409063851_AddGPSTracking.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Migrations\\20260409063851_AddGPSTracking.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Migrations\\20260409063851_AddGPSTracking.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Migrations\\20260409063851_AddGPSTracking.cs",
+              "RelativeToolTip": "SchoolPool\\Migrations\\20260409063851_AddGPSTracking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:38:52.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "oywmckgk..sql",
+              "DocumentMoniker": "C:\\Users\\RUSHIKESH\\AppData\\Local\\Temp\\oywmckgk..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RUSHIKESH\\AppData\\Local\\Temp\\oywmckgk..sql",
+              "ToolTip": "C:\\Users\\RUSHIKESH\\AppData\\Local\\Temp\\oywmckgk..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RUSHIKESH\\AppData\\Local\\Temp\\oywmckgk..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-29T14:50:50.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "5x1assa1..sql",
+              "DocumentMoniker": "C:\\Users\\RUSHIKESH\\AppData\\Local\\Temp\\5x1assa1..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RUSHIKESH\\AppData\\Local\\Temp\\5x1assa1..sql",
+              "ToolTip": "C:\\Users\\RUSHIKESH\\AppData\\Local\\Temp\\5x1assa1..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RUSHIKESH\\AppData\\Local\\Temp\\5x1assa1..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-29T16:08:11.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "bqa2oaxh..sql",
+              "DocumentMoniker": "C:\\Users\\RUSHIKESH\\AppData\\Local\\Temp\\bqa2oaxh..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RUSHIKESH\\AppData\\Local\\Temp\\bqa2oaxh..sql",
+              "ToolTip": "C:\\Users\\RUSHIKESH\\AppData\\Local\\Temp\\bqa2oaxh..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RUSHIKESH\\AppData\\Local\\Temp\\bqa2oaxh..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-29T14:52:42.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SchoolPool\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\appsettings.Development.json",
+              "RelativeToolTip": "SchoolPool\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T07:37:10.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SchoolPool\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SchoolPool\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T07:38:14.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SchoolPool.http",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\SchoolPool.http",
+              "RelativeDocumentMoniker": "SchoolPool\\SchoolPool.http",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\SchoolPool.http",
+              "RelativeToolTip": "SchoolPool\\SchoolPool.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-26T10:53:49.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dbo.__EFMigrationsHistory.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/SchoolPoolDB/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/SchoolPoolDB/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-28T15:11:39.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/SchoolPoolDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/SchoolPoolDB/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-28T15:13:07.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dbo.Children.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/SchoolPoolDB/True/SqlTable/dbo.Children.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/SchoolPoolDB/True/SqlTable/dbo.Children.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-28T15:14:42.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dbo.Parents.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/SchoolPoolDB/True/SqlTable/dbo.Parents.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/SchoolPoolDB/True/SqlTable/dbo.Parents.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-28T15:16:45.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Groups.jsx",
+              "DocumentMoniker": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Groups.jsx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Groups.jsx",
+              "ToolTip": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Groups.jsx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Groups.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-26T10:41:21.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool-client\\src\\index.css",
+              "RelativeDocumentMoniker": "SchoolPool-client\\src\\index.css",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool-client\\src\\index.css",
+              "RelativeToolTip": "SchoolPool-client\\src\\index.css",
+              "ViewState": "AgIAALcAAAAAAAAAAAAmwN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-26T10:36:46.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Navbar.jsx",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool-client\\src\\components\\Navbar.jsx",
+              "RelativeDocumentMoniker": "SchoolPool-client\\src\\components\\Navbar.jsx",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool-client\\src\\components\\Navbar.jsx",
+              "RelativeToolTip": "SchoolPool-client\\src\\components\\Navbar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-26T10:37:40.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Login.jsx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Login.jsx",
+              "ToolTip": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Login.jsx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Login.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-26T10:38:41.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Register.jsx",
+              "DocumentMoniker": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Register.jsx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Register.jsx",
+              "ToolTip": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Register.jsx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Register.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-26T10:39:21.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Dashboard.jsx",
+              "DocumentMoniker": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Dashboard.jsx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Dashboard.jsx",
+              "ToolTip": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Dashboard.jsx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Dashboard.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-26T10:39:59.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Children.jsx",
+              "DocumentMoniker": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Children.jsx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Children.jsx",
+              "ToolTip": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Children.jsx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Children.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-26T10:40:26.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Vehicles.jsx",
+              "DocumentMoniker": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Vehicles.jsx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Vehicles.jsx",
+              "ToolTip": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Vehicles.jsx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\pages\\Vehicles.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-26T10:40:54.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool-client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "SchoolPool-client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool-client\\src\\App.jsx",
+              "RelativeToolTip": "SchoolPool-client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-26T10:36:06.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminDashboard.jsx",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool-client\\src\\pages\\AdminDashboard.jsx",
+              "RelativeDocumentMoniker": "SchoolPool-client\\src\\pages\\AdminDashboard.jsx",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool-client\\src\\pages\\AdminDashboard.jsx",
+              "RelativeToolTip": "SchoolPool-client\\src\\pages\\AdminDashboard.jsx",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-26T10:42:35.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\api.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\api.js",
+              "ToolTip": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\api.js",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool-client\\src\\api.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-26T10:35:44.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool-client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "SchoolPool-client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool-client\\src\\main.jsx",
+              "RelativeToolTip": "SchoolPool-client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-26T10:34:17.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20260326072143_AddAllModels.cs",
+              "DocumentMoniker": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Migrations\\20260326072143_AddAllModels.cs",
+              "RelativeDocumentMoniker": "SchoolPool\\Migrations\\20260326072143_AddAllModels.cs",
+              "ToolTip": "C:\\Users\\userm\\OneDrive\\Desktop\\Project\\SchoolPool\\SchoolPool\\Migrations\\20260326072143_AddAllModels.cs",
+              "RelativeToolTip": "SchoolPool\\Migrations\\20260326072143_AddAllModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:21:43.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20260326072123_AddAllModels.cs",
+              "DocumentMoniker": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool\\Migrations\\20260326072123_AddAllModels.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool\\Migrations\\20260326072123_AddAllModels.cs",
+              "ToolTip": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool\\Migrations\\20260326072123_AddAllModels.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool\\Migrations\\20260326072123_AddAllModels.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:21:23.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20260326071627_AddAllModels.cs",
+              "DocumentMoniker": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool\\Migrations\\20260326071627_AddAllModels.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool\\Migrations\\20260326071627_AddAllModels.cs",
+              "ToolTip": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool\\Migrations\\20260326071627_AddAllModels.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool\\Migrations\\20260326071627_AddAllModels.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:16:28.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EmergencyAlert.cs",
+              "DocumentMoniker": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool\\Models\\EmergencyAlert.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool\\Models\\EmergencyAlert.cs",
+              "ToolTip": "C:\\Users\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool\\Models\\EmergencyAlert.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RUSHIKESH\\source\\repos\\SchoolPool\\SchoolPool\\Models\\EmergencyAlert.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:13:33.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

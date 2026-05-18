@@ -1,0 +1,3 @@
+@SchoolPool_HostAddress = https://localhost:7086
+GET {{SchoolPool_HostAddress}}/weatherforecast/
+Accept: application/json
