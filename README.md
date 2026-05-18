@@ -34,7 +34,6 @@ This project aims to reduce traffic congestion, transportation costs, and safety
 - Instant Notifications to Parents & Admins
 
 ## ✅ Attendance System
-- QR Code / OTP-Based Attendance
 - Child Pickup & Drop Confirmation
 
 ## 💳 Payment & Cost Sharing
@@ -69,12 +68,11 @@ This project aims to reduce traffic congestion, transportation costs, and safety
 - REST API
 
 ## Database
-- PostgreSQL
+- SQL server (SSMS)
 
 ## APIs & Services
 - Google Maps API
-- Firebase Cloud Messaging
-- Twilio SMS API
+
 
 ## Authentication
 - JWT Authentication
@@ -84,7 +82,6 @@ This project aims to reduce traffic congestion, transportation costs, and safety
 - Postman
 - Visual Studio 2022
 - Visual Studio Code
-- pgAdmin 4
 
 ---
 
@@ -159,25 +156,25 @@ dotnet run
 (Add Screenshot Here)
 
 ## Parent Dashboard
-(Add Screenshot Here)
+<img width="1919" height="1059" alt="image" src="https://github.com/user-attachments/assets/c57fe647-6123-4b71-bf88-2a63485a4907" />
+)
 
 ## Carpool Group Management
-(Add Screenshot Here)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9a1eebbc-eca6-4b67-990c-f2a9ac91c429" />
 
 ## Ride Scheduling
-(Add Screenshot Here)
-
-## Live GPS Tracking
-(Add Screenshot Here)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4e14fb58-7a56-409f-97c4-f1f0e8e67133" />
 
 ## Attendance Screen
-(Add Screenshot Here)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a6ff171a-4272-4021-b059-5336e04ccff8" />
+
 
 ## SOS Emergency Alert System
-(Add Screenshot Here)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/04510ba4-4c60-4f2c-a39c-452de29f676f" />
 
 ## Admin Dashboard
-(Add Screenshot Here)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/263cdd03-3729-4aa6-b7c9-818e42bdd022" />
+
 
 ---
 
@@ -212,17 +209,6 @@ The project includes testing for:
 - Abhishek Mane
 - Ghanshyam Kumawat
 
----
-
-# 📚 References
-
-- React.js Documentation
-- ASP.NET Core Documentation
-- PostgreSQL Documentation
-- Google Maps Platform
-- JWT.io
-- Firebase Cloud Messaging
-- Twilio SMS API
 
 ---
 
